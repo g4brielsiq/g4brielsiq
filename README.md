@@ -8,7 +8,7 @@ Possuo experiência em **front-end**, **back-end** e **metodologias ágeis**, va
 Acredito que cada projeto é uma oportunidade não apenas de criar soluções tecnológicas eficientes, mas também de **aprender**, **compartilhar** conhecimento e **gerar** impacto real.
 
 <div align="center" style="display: inline_block">
-<a href="www.linkedin.com/in/lucasgabrieldeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<a href="https://www.linkedin.com/in/lucasgabrieldeveloper/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 <a href="mailto:g4brielsiq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 <a href="https://instagram.com/gabrielsqra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
