@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Lucas Gabriel! 👋
+## Olá, eu sou Lucas Gabriel!
 
 🎓 Acadêmico de <b>Ciência da Computação</b> na UFAL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 Técnico em <b>Informática</b> pelo IFBA  
 🛠️ <b>Desenvolvedor Full Stack</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🛡️ Entusiasta em <b>DevOps</b> e <b>Cibersegurança</b>
@@ -15,7 +15,7 @@ Acredito que cada projeto é uma oportunidade não apenas de criar soluções te
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🌐 Tecnologias & Ferramentas
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -53,4 +53,4 @@ Acredito que cada projeto é uma oportunidade não apenas de criar soluções te
 </div>
 
 <!-- ### 🐍 Contribuições animadas
-![Snake animation](https://github.com/Lucas-Gabriel95/Lucas-Gabriel95/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/g4brielsiq/g4brielsiq/blob/output/github-contribution-grid-snake.svg) -->
