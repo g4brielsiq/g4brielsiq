@@ -1,11 +1,11 @@
-## 👋 Olá, eu sou Lucas Gabriel! 👋 
+## 👋 Olá, eu sou Lucas Gabriel! 👋
 
 🎓 Acadêmico de <b>Ciência da Computação</b> na UFAL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 Técnico em <b>Informática</b> pelo IFBA  
 🛠️ <b>Desenvolvedor Full Stack</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🛡️ Entusiasta em <b>DevOps</b> e <b>Cibersegurança</b>
 
 Sou apaixonado por tecnologia e desenvolvimento de software, motivado constantemente por novos desafios para evoluir e aprimorar minhas habilidades.
 Possuo experiência em **front-end**, **back-end** e **metodologias ágeis**, valorizando a **adaptabilidade**, **comprometimento** e a **aprendizagem** contínua.
-Acredito que cada projeto é uma oportunidade não apenas de criar soluções tecnológicas eficientes, mas também de **aprender**, **compartilhar** conhecimento e **gerar** impacto real. 
+Acredito que cada projeto é uma oportunidade não apenas de criar soluções tecnológicas eficientes, mas também de **aprender**, **compartilhar** conhecimento e **gerar** impacto real.
 
 <div align="center" style="display: inline_block">
 <a href="www.linkedin.com/in/lucasgabrieldeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
@@ -15,7 +15,8 @@ Acredito que cada projeto é uma oportunidade não apenas de criar soluções te
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas  
+### 🛠️ Tecnologias & Ferramentas
+
 <div align="center" style="display: inline_block">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -38,18 +39,19 @@ Acredito que cada projeto é uma oportunidade não apenas de criar soluções te
 
 <div align="center">
 <img 
-    align="left" 
-    alt="GitHub Stats" 
-    width="65%"
-    src="https://github-readme-stats.vercel.app/api?username=g4brielsiq&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="GitHub Stats"
+    height="180em"
+    padding-left="20px"
+    src="https://github-readme-stats.vercel.app/api?username=g4brielsiq&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 <img 
-      align="right" 
-      alt="GitHub Stats" 
-      width="35%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4brielsiq&theme=tokyonight&layout=compact&locale=pt-br&langs_count=9" 
+    alt="GitHub Stats"
+    height="180em"
+    padding-right="20px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4brielsiq&theme=tokyonight&layout=compact&locale=pt-br&langs_count=9" 
   />
+
 </div>
 
-<!-- ### 🐍 Contribuições animadas  
+<!-- ### 🐍 Contribuições animadas
 ![Snake animation](https://github.com/Lucas-Gabriel95/Lucas-Gabriel95/blob/output/github-contribution-grid-snake.svg) -->
