@@ -7,15 +7,10 @@
 <!-- 👁️🛠️🛡️💾📍🚀🪐🔱⚜️🌐👁️‍🗨️💭 -->
 
 ---
- 
-<!-- Sou apaixonado por tecnologia e desenvolvimento de software, motivado por novos desafios e pelo constante desejo de aprendizado e oportunidades para evoluir!
-Possuo experiências em **front-end**, **back-end** e **metodologias ágeis**, apoiada por uma sólida base em lógica de programação, estruturas de dados e boas práticas de desenvolvimento.  
-**Adaptável** a diferentes contextos, **proativo** com resultados e **dedicado** à evolução contínua das minhas habilidades.  
-Acredito que cada projeto é uma oportunidade não apenas de criar soluções tecnológicas eficientes e escaláveis, mas também de **aprender**, **compartilhar** conhecimento e **gerar** impacto real.  -->
 
-Apaixonado por tecnologia e desenvolvimento de software, busco constantemente novos desafios para evoluir e aprimorar minhas habilidades.
+Sou apaixonado por tecnologia e desenvolvimento de software, motivado constantemente por novos desafios para evoluir e aprimorar minhas habilidades.
 Possuo experiência em **front-end**, **back-end** e **metodologias ágeis**, valorizando a **adaptabilidade**, **comprometimento** e a **aprendizagem** contínua.
-Acredito que cada projeto é uma oportunidade não apenas de criar soluções tecnológicas eficientes e escaláveis, mas também de **aprender**, **compartilhar** conhecimento e **gerar** impacto real. 
+Acredito que cada projeto é uma oportunidade não apenas de criar soluções tecnológicas eficientes, mas também de **aprender**, **compartilhar** conhecimento e **gerar** impacto real. 
 
 ---
 
