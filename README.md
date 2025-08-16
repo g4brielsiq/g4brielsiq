@@ -8,7 +8,7 @@ Possuo experiência em **front-end**, **back-end** e **metodologias ágeis**, va
 Acredito que cada projeto é uma oportunidade não apenas de criar soluções tecnológicas eficientes, mas também de **aprender**, **compartilhar** conhecimento e **gerar** impacto real.
 
 <div align="center" style="display: inline_block">
-<a href="www.linkedin.com/in/lucasgabrieldeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<a href="https://www.linkedin.com/in/lucasgabrieldeveloper/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 <a href="mailto:g4brielsiq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 <a href="https://instagram.com/gabrielsqra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
@@ -42,13 +42,13 @@ Acredito que cada projeto é uma oportunidade não apenas de criar soluções te
     alt="GitHub Stats"
     height="180em"
     padding-left="20px"
-    src="https://github-readme-stats.vercel.app/api?username=g4brielsiq&show_icons=true&theme=bg_color=00000000&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=g4brielsiq&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 <img 
     alt="GitHub Stats"
     height="180em"
     padding-right="20px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4brielsiq&theme=transparent&layout=compact&locale=pt-br&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4brielsiq&theme=tokyonight&layout=compact&locale=pt-br&langs_count=9" 
   />
 </div>
 
