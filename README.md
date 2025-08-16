@@ -50,7 +50,6 @@ Acredito que cada projeto é uma oportunidade não apenas de criar soluções te
     padding-right="20px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4brielsiq&theme=tokyonight&layout=compact&locale=pt-br&langs_count=9" 
   />
-
 </div>
 
 <!-- ### 🐍 Contribuições animadas
