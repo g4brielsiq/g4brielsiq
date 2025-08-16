@@ -36,8 +36,8 @@ Acredito que cada projeto é uma oportunidade não apenas de criar soluções te
 
 ### 📊 Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Gabriel95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Gabriel95&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g4brielsiq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4brielsiq&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <!-- ### 🐍 Contribuições animadas  
