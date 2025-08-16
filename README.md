@@ -1,8 +1,7 @@
 ## 👋 Olá, eu sou Lucas Gabriel! 👋 
-🎓 Acadêmico de **Ciência da Computação** na UFAL  
-💻 Técnico em **Informática** pelo IFBA  
-🛠️ **Desenvolvedor Full Stack**  
-🛡️ Entusiasta em **DevOps** e **Cibersegurança**
+
+🎓 Acadêmico de <b>Ciência da Computação</b> na UFAL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 Técnico em <b>Informática</b> pelo IFBA  
+🛠️ <b>Desenvolvedor Full Stack</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🛡️ Entusiasta em <b>DevOps</b> e <b>Cibersegurança</b>
 
 <!-- 👁️🛠️🛡️💾📍🚀🪐🔱⚜️🌐👁️‍🗨️💭 -->
 
@@ -12,7 +11,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software, motivado constantem
 Possuo experiência em **front-end**, **back-end** e **metodologias ágeis**, valorizando a **adaptabilidade**, **comprometimento** e a **aprendizagem** contínua.
 Acredito que cada projeto é uma oportunidade não apenas de criar soluções tecnológicas eficientes, mas também de **aprender**, **compartilhar** conhecimento e **gerar** impacto real. 
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
 <a href="https://linkedin.com/in/lucasgabrieldev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 <a href="mailto:g4brielsiq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 <a href="https://instagram.com/gabrielsqra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
