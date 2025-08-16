@@ -16,7 +16,7 @@ Acredito que cada projeto é uma oportunidade não apenas de criar soluções te
 ---
 
 ### 🛠️ Tecnologias & Ferramentas  
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
