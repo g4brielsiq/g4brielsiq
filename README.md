@@ -41,13 +41,11 @@ Acredito que cada projeto é uma oportunidade não apenas de criar soluções te
 <img 
     alt="GitHub Stats"
     height="180em"
-    padding-left="20px"
     src="https://github-readme-stats.vercel.app/api?username=g4brielsiq&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+  />&nbsp;
 <img 
     alt="GitHub Stats"
     height="180em"
-    padding-right="20px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4brielsiq&theme=tokyonight&layout=compact&locale=pt-br&langs_count=9" 
   />
 </div>
