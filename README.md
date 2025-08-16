@@ -31,8 +31,8 @@ Acredito que cada projeto é uma oportunidade não apenas de criar soluções te
   <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angular/angular-original.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div><br>
+  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+</div>
 
 ### 📊 Estatísticas
 <div align="center">
