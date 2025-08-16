@@ -36,21 +36,20 @@ Acredito que cada projeto é uma oportunidade não apenas de criar soluções te
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
+<div align="center">
+<img 
     align="left" 
     alt="GitHub Stats" 
     width="65%"
     src="https://github-readme-stats.vercel.app/api?username=g4brielsiq&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       width="35%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4brielsiq&theme=tokyonight&layout=compact&locale=pt-br&langs_count=9" 
   />
+</div>
 
-</p>
 <!-- ### 🐍 Contribuições animadas  
 ![Snake animation](https://github.com/Lucas-Gabriel95/Lucas-Gabriel95/blob/output/github-contribution-grid-snake.svg) -->
